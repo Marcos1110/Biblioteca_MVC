@@ -10,7 +10,7 @@ define('VIEWS', BASE_DIR . '\Views');
 $_ENV['db']['host']     = "localhost:3306";
 $_ENV['db']['user']     = "root";
 $_ENV['db']['pswd']     = "Marcos@2025";
-$_ENV['db']['database'] = "biblioteca";
+$_ENV['db']['database'] = "bibliteca";
 
 /* Essa forma de especificar os dados de conexão ao BD não é realmente segura,
  * todavia, para fins de estudo, não creio que seja um problema. */
